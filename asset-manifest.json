@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/developerFolio/static/css/main.6f0dc5d0.css",
+    "main.js": "/developerFolio/static/js/main.e6b8087a.js",
+    "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.db2f86c4.chunk.js": "/developerFolio/static/js/769.db2f86c4.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/mintcheleonsLogo.png": "/developerFolio/static/media/mintcheleonsLogo.e1117dbab8f0358264a7.png",
+    "static/media/mmLogo.png": "/developerFolio/static/media/mmLogo.ae5f3a773f26938d2fdf.png",
+    "static/media/bmccLogo.png": "/developerFolio/static/media/bmccLogo.05324f78723035d1341d.png",
+    "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/arweaveLogo.png": "/developerFolio/static/media/arweaveLogo.6b9c232212dcd6fce0fc.png",
+    "static/media/275Logo.png": "/developerFolio/static/media/275Logo.05ea13693ccd436f48b8.png",
+    "static/media/urLogo.png": "/developerFolio/static/media/urLogo.4532109ecd8409dfe055.png",
+    "static/media/khz1Logo.png": "/developerFolio/static/media/khz1Logo.1146f954ccc7e91dfd9d.png",
+    "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/aiowLogo.png": "/developerFolio/static/media/aiowLogo.6261862a6c64ad1e8ff7.png",
+    "static/media/hvaLogo1.png": "/developerFolio/static/media/hvaLogo1.0c918b4f8fc8a078906e.png",
+    "static/media/lehmanLogo.png": "/developerFolio/static/media/lehmanLogo.6647c80a734a3a2f7f82.png",
+    "static/media/skill.svg": "/developerFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/developerFolio/index.html",
+    "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.6f0dc5d0.css.map": "/developerFolio/static/css/main.6f0dc5d0.css.map",
+    "main.e6b8087a.js.map": "/developerFolio/static/js/main.e6b8087a.js.map",
+    "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.db2f86c4.chunk.js.map": "/developerFolio/static/js/769.db2f86c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f0dc5d0.css",
+    "static/js/main.e6b8087a.js"
+  ]
+}
