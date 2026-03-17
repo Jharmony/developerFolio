@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "title": "Technical Lead | Decentralized Systems Builder",
+    "description": "Technical Lead and decentralized systems builder at the intersection of permanent storage, autonomous compute, and ecosystem infrastructure. Arweave & AO.",
+    "name": "JHarmony",
+    "subtitle": "Technical Lead · Decentralized Systems Builder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22645740?u=c92a0b4f5834bd12d23dbacde56c638bdfa15577&v=4",
+    "location": "New York, United States",
+    "hireable": true
+  },
+  "about": {
+    "bio": "Technical Lead and decentralized systems builder operating at the intersection of permanent storage, autonomous compute, and ecosystem infrastructure.\n\nOver the past several years I've worked within the Arweave and AO ecosystems under Forward Research, evolving from community leadership into full product and engineering ownership. I led end-to-end development of BazAR, a decentralized atomic asset marketplace built on Arweave and AO.\n\nMy work spans far beyond code: I've designed and deployed permanent campaign infrastructure on Arweave, integrated AI-driven development workflows (OpenAI, Claude, Llama, OpenRouter), architected marketplace trading systems (micro-orderbooks), and coordinated global ecosystem activations across the United States, Latin America, Africa, the Middle East, and Asia.\n\nI managed Permabites IRL, a multi-continent initiative bringing decentralized infrastructure education into real-world communities. I care about permanence, ownership, and building infrastructure that outlasts trends.",
+    "highlights": [
+      "Distributed systems & decentralized compute",
+      "AO process architecture & message-based state management",
+      "Atomic asset standards & on-chain licensing (UDL)",
+      "AI-assisted engineering workflows",
+      "Marketplace infrastructure & tokenized economies"
+    ],
+    "initiatives": [
+      "PermaHacks 2024",
+      "Berlin Fragments",
+      "Hack The Weave",
+      "Weavers & BazAR YouTube Channels",
+      "Weavers Raid II, III, and IV",
+      "Weekly X Spaces",
+      "Bounty Bot",
+      "Arweave Day Berlin",
+      "Agents of the Permaweb (AI Hackathon)",
+      "Weavers Hall of Fame"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Arweave",
+      "companyLogo": "/developerFolio/static/media/arweaveLogo.6b9c232212dcd6fce0fc.png",
+      "role": "Information Technology Team Lead",
+      "date": "Mar 2025 – Feb 2026 · 1 yr",
+      "location": "New York, United States · Remote",
+      "description": "Led end-to-end engineering and product development for BazAR, a decentralized atomic asset marketplace built on Arweave and AO infrastructure. Owned system architecture, backend and frontend development, repository management, and production stability during rapid protocol evolution (AO mainnet, HyperBEAM, UCM). Designed and implemented marketplace trading systems, micro-orderbooks, asset minting tools, profile infrastructure, and ecosystem integrations. Maintained multiple production codebases while coordinating product roadmap, developer experience, and creator onboarding. Directed platform marketing strategy, social media growth, and global community initiatives including Permabites IRL events. Acted as primary technical owner and cross-functional lead, interfacing directly with protocol teams and ecosystem partners.",
+      "skills": ["Technology Leadership", "Project Engineering", "System Architecture", "Backend/Frontend", "Repository Management"]
+    },
+    {
+      "company": "Arweave",
+      "companyLogo": "/developerFolio/static/media/arweaveLogo.6b9c232212dcd6fce0fc.png",
+      "role": "Technical Lead",
+      "date": "Mar 2025 – Feb 2026 · 1 yr",
+      "location": "New York, New York · Hybrid",
+      "description": "Led end-to-end engineering and product development for BazAR. Integrated AI-assisted workflows (LLMs including OpenAI, Claude, Llama) into product development, automation, and content operations. Primary technical owner and cross-functional lead with protocol teams and ecosystem partners.",
+      "skills": ["Technical Project Leadership", "IT Leadership", "AI-assisted workflows"]
+    },
+    {
+      "company": "Arweave",
+      "companyLogo": "/developerFolio/static/media/arweaveLogo.6b9c232212dcd6fce0fc.png",
+      "role": "Community Manager",
+      "date": "Feb 2025 – Mar 2025 · 2 mos",
+      "location": "New York, New York · Hybrid",
+      "description": "Managed the official AO community Discord, overseeing moderation, engagement strategy, onboarding workflows, and technical support channels. Coordinated cross-functional communication between protocol teams, developers, and community members. Elevated by CEO to assume leadership of BazAR product and engineering operations.",
+      "skills": ["Community Marketing", "Community Relations", "Discord", "Onboarding"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "BazAR",
+      "subtitle": "Atomic Asset Marketplace on Arweave",
+      "description": "Decentralized atomic asset marketplace built on Arweave and AO. Trading systems, micro-orderbooks, UDL integration. Fully decentralized token exchange for AO tokens via HyperBEAM.",
+      "date": "Feb 2025 – Feb 2026",
+      "link": "https://twitter.com/OurBazAR",
+      "tags": ["Engineering", "Technical Leadership", "Social Media Marketing", "Arweave", "AO", "UDL"]
+    },
+    {
+      "title": "PermaHub",
+      "subtitle": "Permanent Campaign & Ecosystem Hub",
+      "description": "Permanent campaign and ecosystem hub on the Arweave network, aggregating Permabites, StarGrid, and community-driven activations. Infrastructure for long-term campaign pages, documentation, and ecosystem resources with verifiable permanence.",
+      "date": "Jan 2025 – Present",
+      "link": "https://permahub.arweave.dev",
+      "tags": ["Web Design", "GitHub", "Repository Management", "Marketing Campaigns", "Back-End", "Responsive Web Design"]
+    },
+    {
+      "title": "PermaTell",
+      "subtitle": "Stories on the Permaweb",
+      "description": "Stories live permanently on the Arweave blockchain with Permatell leveraging AO processes. Book summaries and reflections preserved forever on the permaweb.",
+      "date": "Dec 2024 – Present",
+      "link": "https://twitter.com/PermaTell",
+      "tags": ["Project Engineering", "AO", "Arweave"]
+    },
+    {
+      "title": "Permabites IRL – Global Ecosystem Activation",
+      "subtitle": "Multi-Continent Decentralized Education",
+      "description": "Led Permabites IRL, a global grassroots initiative sponsored by BazAR bringing decentralized infrastructure education into real-world communities. Permanent landing pages on Arweave for each activation. International hosts across the US, Nigeria, Saudi Arabia, China, India, and beyond. Educational tracks from wallet onboarding to AO architecture, UDL, and decentralized compute. Scaled from 3 pilot events to a multi-continent campaign.",
+      "date": "Sep 2025 – Feb 2026",
+      "link": null,
+      "tags": ["Live Events", "Special Events", "Hosting", "Event Planning"]
+    },
+    {
+      "title": "Agents of the Permaweb – AI Hackathon",
+      "subtitle": "Global Hackathon on AO",
+      "description": "Contributed to Agents of the Permaweb, a global hackathon for building autonomous AI agents on AO. Designed and deployed the official permanent landing page on Arweave. $39,000 prize pool, builder resources, and long-term campaign permanence.",
+      "date": "Jul 2025 – Sep 2025",
+      "link": null,
+      "tags": ["Web Development", "Responsive Web Design", "Twitter Marketing", "Collaborative Leadership"]
+    },
+    {
+      "title": "Berlin Fragments (with AO Team)",
+      "subtitle": "Decentralized Ecosystem Activation",
+      "description": "Collaborated with the AO core team on Berlin Fragments. Built and deployed permanent campaign website on Arweave. Street-level marketing campaign across Berlin with physical posters and grassroots outreach.",
+      "date": "May 2025 – Jun 2025",
+      "link": null,
+      "tags": ["Marketing Campaign Management", "Website Building", "Back-End", "Digital Marketing", "Blockchain Architecture"]
+    },
+    {
+      "title": "Permabrawl",
+      "subtitle": "Community-Driven Atomic Assets Campaign",
+      "description": "Designed and launched Permabrawl, minting and trading atomic assets on AO. Permanent campaign website on Arweave with asset discovery, trading logic, and participation tracking.",
+      "date": "Feb 2025 – Mar 2025",
+      "link": null,
+      "tags": ["Website Building", "Back-End", "Blockchain", "Discord", "Twitter Marketing", "TypeScript", "Lua"]
+    },
+    {
+      "title": "PermaHacks 2024 – Innovation Unleashed",
+      "subtitle": "10-Day Global Hackathon",
+      "description": "Contributed to PermaHacks 2024, a 10-day global hackathon for dApps on Arweave and AO. Developer onboarding, technical mentorship, project evaluation. Categories: decentralized payments, social apps, tokenized assets, decentralized identity.",
+      "date": "Oct 2024 – Nov 2024",
+      "link": null,
+      "tags": ["Community Management", "Discord", "Twitter Marketing", "Mentoring", "Developer Relations"]
+    },
+    {
+      "title": "Weavers Hackathon – Startup World Cup Bogotá",
+      "subtitle": "Latin America Ecosystem Expansion",
+      "description": "Co-organized and executed the Weavers Hackathon at Startup World Cup Bogotá, expanding Arweave and AO presence into Latin America. Campaign promotion, video communications, technical guidance for participants.",
+      "date": "Sep 2024",
+      "link": null,
+      "tags": ["Mentor", "Developer Relations", "Hosting Events", "Event Management", "Event Marketing"]
+    },
+    {
+      "title": "The Weavers Hall of Fame 2024 – Arweave Day",
+      "subtitle": "Arweave Day Initiative",
+      "description": "Contributed to The Weavers Hall of Fame 2024 during Arweave Day. Curated production-ready dApps: decentralized video streaming, AI virtual worlds, gaming protocols, social dApps, Web wallets, browser compute. Highlighted Permaverse, Streamint, Typr, WebCU.",
+      "date": "Mar 2024 – Jun 2024",
+      "link": null,
+      "tags": ["Mentor", "Peer Mentoring", "Web Development"]
+    },
+    {
+      "title": "Permaweb-libs (AO/Arweave SDK)",
+      "subtitle": "Ecosystem SDK",
+      "description": "Contributed to Permaweb-libs, the AO/Arweave SDK. Repository management and ecosystem tooling.",
+      "date": "Feb 2025 – Feb 2026",
+      "link": null,
+      "tags": ["Repository Management", "TypeScript", "Lua", "Git", "Erlang"]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "#NFTNYC2024 Speaker",
+      "issuer": "NFT.NYC",
+      "date": "Apr 2024",
+      "url": null,
+      "description": "Speaker at NFT.NYC 2024."
+    },
+    {
+      "title": "NFT.NYC 2025 Artist Showcase – Proof of Submission",
+      "issuer": "NFT.NYC",
+      "date": "Jan 2025",
+      "url": null,
+      "description": "Artist Showcase – Proof of Submission."
+    },
+    {
+      "title": "Google AI Essentials",
+      "issuer": "Google",
+      "date": "2026",
+      "url": null,
+      "description": "Credential ID 9GOE5E3JZ6YO"
+    },
+    {
+      "title": "Stay Ahead of the AI Curve",
+      "issuer": "Google",
+      "date": "Mar 2026",
+      "url": null,
+      "description": "Credential ID 10ZQGZQ9FA0V"
+    },
+    {
+      "title": "Use AI Responsibly",
+      "issuer": "Google",
+      "date": "Mar 2026",
+      "url": null,
+      "description": "Credential ID MUVUEVZ3NUQ4"
+    },
+    {
+      "title": "Discover the Art of Prompting",
+      "issuer": "Google",
+      "date": "Mar 2026",
+      "url": null,
+      "description": "Credential ID 6FVFZCAPZQTN"
+    },
+    {
+      "title": "Maximize Productivity With AI Tools",
+      "issuer": "Google",
+      "date": "Mar 2026",
+      "url": null,
+      "description": "Credential ID 8655VVH0HRLL"
+    },
+    {
+      "title": "Introduction to AI",
+      "issuer": "Google",
+      "date": "Mar 2026",
+      "url": null,
+      "description": "Credential ID EQ1C2YJ1Z8UE"
+    }
+  ],
+  "contact": {
+    "subtitle": "Building in decentralized infrastructure, AI-native systems, or long-term digital architecture? Let's connect.",
+    "email": null,
+    "twitter": "https://twitter.com/TRue_JDHarmony",
+    "linkedin": null,
+    "github": "https://github.com/jharmony",
+    "discord": null
+  }
+}

@@ -1,0 +1,127 @@
+@import "../../_globalColor";
+
+.skills-main-div {
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+}
+
+.skills-text-div {
+  margin-left: 50px;
+}
+
+.skills-text-list {
+  margin-top: 1.5rem;
+}
+
+.skills-main-div > * {
+  flex: 1;
+  margin-bottom: 30px;
+}
+
+.skills-image-div > img {
+  max-width: 100%;
+  height: auto;
+}
+
+.skills-heading {
+  font-size: 56px;
+  font-weight: 400;
+}
+.subTitle {
+  color: $subTitle;
+}
+
+.skills-divider {
+  width: 100%;
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.skills-divider .skills-text-subtitle {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.skills-icon-marquee {
+  margin-top: 2rem;
+  padding: 1rem 0;
+  border-top: 1px solid $lightBorder1;
+  border-bottom: 1px solid $lightBorder1;
+  overflow: hidden;
+}
+
+.skills-icon-track {
+  display: flex;
+  width: max-content;
+  animation: skills-marquee 25s linear infinite;
+}
+
+.skills-icon-marquee .marquee-dev-icons {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 28px;
+  padding-left: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.skills-icon-marquee .software-skill-inline {
+  margin: 0;
+}
+
+.skills-icon-marquee .dev-icons {
+  font-size: 3.2rem;
+  text-align: left;
+}
+
+.skills-icon-marquee .skill-icon-svg {
+  width: 3rem;
+  height: 3rem;
+}
+
+@keyframes skills-marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Media Query */
+@media (max-width: 1380px) {
+  .skills-heading {
+    font-size: 40px;
+  }
+}
+@media (max-width: 768px) {
+  .skills-heading {
+    font-size: 30px;
+    text-align: center;
+  }
+  .greeting-text-p {
+    font-size: 16px;
+    line-height: normal;
+  }
+  .skills-main-div {
+    flex-direction: column;
+  }
+  .skills-text-div {
+    margin-left: 0px;
+    margin: 20px;
+  }
+  .skills-text {
+    font-size: 16px;
+  }
+  .skills-text-subtitle {
+    font-size: 16px;
+    text-align: center;
+  }
+  .skills-image-div {
+    /* display: none; */
+    order: 2;
+  }
+}

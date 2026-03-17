@@ -1,0 +1,37 @@
+@import "../../_globalColor";
+
+.centerContent {
+  text-align: center;
+  margin: auto;
+  display: block;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+.tw-main-div {
+  margin: 2rem 15px 2.5rem;
+  padding: 1.5rem 0;
+}
+
+.tw-heading {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 1.5rem;
+}
+
+.tw-scroll {
+  display: flex;
+  gap: 1.5rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+}
+
+.tw-embed-card {
+  min-width: 340px;
+  max-width: 420px;
+  flex: 0 0 auto;
+}
+
+.dark-mode.tw-embed-card {
+  background-color: $darkBackground;
+  box-shadow: 0 10px 30px -15px $darkBoxShadow;
+}
