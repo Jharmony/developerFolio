@@ -58,6 +58,8 @@
   transition: 0.2s ease-in;
   overflow: hidden; /* clip the white edges in the source image */
   padding: 0;
+  position: relative;
+  top: 12px; /* lower icon to match the other <i> buttons */
 }
 
 .icon-button.linktree .linktree-icon {
@@ -110,13 +112,28 @@
 .github i:hover,
 .linkedin i:hover,
 .linktree i:hover,
-.icon-button.linktree:hover,
 .facebook i:hover,
 .instagram i:hover,
 .stack-overflow i:hover,
 .kaggle i:hover,
 .medium i:hover {
   background-color: $textColor;
+}
+
+.icon-button.linktree::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  /* Gray-ish overlay to match the feel of the other icon hovers */
+  background-color: rgba(0, 0, 0, 0.35);
+  opacity: 0;
+  transition: opacity 0.2s ease-in;
+  pointer-events: none;
+}
+
+.icon-button.linktree:hover::after {
+  opacity: 1;
 }
 
 /* Media Query */
