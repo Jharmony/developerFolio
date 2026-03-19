@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/developerFolio/static/css/main.06386009.css",
-    "main.js": "/developerFolio/static/js/main.c53dad08.js",
+    "main.css": "/developerFolio/static/css/main.63c527c7.css",
+    "main.js": "/developerFolio/static/js/main.eab06e62.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
@@ -12,9 +12,11 @@
     "static/media/permaBrawl.png": "/developerFolio/static/media/permaBrawl.a2a914de2caf6b7f8405.png",
     "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/hackTheWeave.png": "/developerFolio/static/media/hackTheWeave.4e6350f944820bb0bf0f.png",
+    "static/media/circumfusionFront.jpg": "/developerFolio/static/media/circumfusionFront.addc260dcbb10cd0bd06.jpg",
     "static/media/mmLogo.png": "/developerFolio/static/media/mmLogo.ae5f3a773f26938d2fdf.png",
     "static/media/bmccLogo.png": "/developerFolio/static/media/bmccLogo.05324f78723035d1341d.png",
     "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/circumfusionBack.jpg": "/developerFolio/static/media/circumfusionBack.2046d1191f9a384e8150.jpg",
     "static/media/275Logo.png": "/developerFolio/static/media/275Logo.05ea13693ccd436f48b8.png",
     "static/media/erlangLogo.svg": "/developerFolio/static/media/erlangLogo.023ed0d08f87066d477ce9c394f3ef19.svg",
     "static/media/urLogo.png": "/developerFolio/static/media/urLogo.4532109ecd8409dfe055.png",
@@ -30,6 +32,7 @@
     "static/media/aiowLogo.png": "/developerFolio/static/media/aiowLogo.6261862a6c64ad1e8ff7.png",
     "static/media/bazar.png": "/developerFolio/static/media/bazar.e52ba348d88b047dfd86.png",
     "static/media/sketchylabs.jpg": "/developerFolio/static/media/sketchylabs.32a5332e2f03b9e057d3.jpg",
+    "static/media/linktreeIcon.jpg": "/developerFolio/static/media/linktreeIcon.a939c3fdb33792215048.jpg",
     "static/media/permatell.png": "/developerFolio/static/media/permatell.d58cd5eef2384e883161.png",
     "static/media/hvaLogo1.png": "/developerFolio/static/media/hvaLogo1.0c918b4f8fc8a078906e.png",
     "static/media/lehmanLogo.png": "/developerFolio/static/media/lehmanLogo.6647c80a734a3a2f7f82.png",
@@ -38,15 +41,15 @@
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "static/media/tsLogo.svg": "/developerFolio/static/media/tsLogo.464e5cd6e58313a5a6904018e7d9bbd0.svg",
-    "main.06386009.css.map": "/developerFolio/static/css/main.06386009.css.map",
-    "main.c53dad08.js.map": "/developerFolio/static/js/main.c53dad08.js.map",
+    "main.63c527c7.css.map": "/developerFolio/static/css/main.63c527c7.css.map",
+    "main.eab06e62.js.map": "/developerFolio/static/js/main.eab06e62.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
     "769.f5676590.chunk.js.map": "/developerFolio/static/js/769.f5676590.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06386009.css",
-    "static/js/main.c53dad08.js"
+    "static/css/main.63c527c7.css",
+    "static/js/main.eab06e62.js"
   ]
 }
