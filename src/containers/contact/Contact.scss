@@ -45,11 +45,30 @@
   margin-top: 4rem;
 }
 
+.contact-image-div {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 6rem;
+}
+
 .contact-image-div > img {
   max-width: 100%;
   height: auto;
   margin-left: 1.5rem;
   margin-top: -4rem;
+}
+
+/* Lottie sizing (Reach Out mail animation) */
+.contact-image-div > div {
+  width: 50%;
+  max-width: 420px;
+  margin-left: 0;
+  margin-top: -4rem;
+}
+
+.contact-image-div > div svg {
+  width: 100% !important;
+  height: auto !important;
 }
 
 /* Media Query */
