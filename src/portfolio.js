@@ -33,6 +33,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/jharmony",
   linkedin: "https://www.linkedin.com/in/jorge-de-leon-4b5202215/",
+  linktree: "https://linktr.ee/jharmonydesigns",
   gmail: "protocolgrowthstudio@gmail.com",
   gitlab: "",
   facebook: "",

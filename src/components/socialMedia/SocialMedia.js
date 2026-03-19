@@ -32,6 +32,22 @@ export default function socialMedia() {
         </a>
       ) : null}
 
+      {socialMediaLinks.linktree ? (
+        <a
+          href={socialMediaLinks.linktree}
+          className="icon-button linktree"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src={require("../../assets/images/linktreeIcon.jpg")}
+            alt="Linktree"
+            className="linktree-icon"
+          />
+          <span></span>
+        </a>
+      ) : null}
+
       {socialMediaLinks.gmail ? (
         <a
           href={`mailto:${socialMediaLinks.gmail}`}

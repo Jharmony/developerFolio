@@ -36,6 +36,41 @@
   background-color: $linkedin;
 }
 
+.linktree i {
+  background-color: $buttonColor;
+}
+
+.icon-button.linktree {
+  background-color: transparent;
+  border-radius: 2.6rem;
+  color: $textColorDark;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  height: 2.6rem;
+  line-height: 2.6rem;
+  margin: 0 5px;
+  width: 2.6rem;
+  margin-bottom: 10px;
+  text-decoration: none;
+  transition: 0.2s ease-in;
+  overflow: hidden; /* clip the white edges in the source image */
+  padding: 0;
+}
+
+.icon-button.linktree .linktree-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  object-position: center;
+  border-radius: 50%;
+  transform: scale(1.28); /* zoom until it fully fills the circle */
+  transform-origin: center;
+}
+
 .github i {
   background-color: $github;
 }
@@ -74,6 +109,8 @@
 .gitlab i:hover,
 .github i:hover,
 .linkedin i:hover,
+.linktree i:hover,
+.icon-button.linktree:hover,
 .facebook i:hover,
 .instagram i:hover,
 .stack-overflow i:hover,
