@@ -35,6 +35,23 @@ function ProjectMedia({project}) {
   }
 
   if (project.image) {
+    if (project.imageHover) {
+      return (
+        <div className="project-image book-image-swap">
+          <img
+            src={project.image}
+            alt={project.projectName}
+            className="card-image book-front"
+          ></img>
+          <img
+            src={project.imageHover}
+            alt={project.projectName}
+            className="card-image book-back"
+          ></img>
+        </div>
+      );
+    }
+
     return (
       <div className="project-image">
         <img

@@ -61,6 +61,28 @@
   align-items: center;
 }
 
+.book-image-swap .card-image.book-front,
+.book-image-swap .card-image.book-back {
+  position: absolute;
+  inset: 0; /* fill the image container, prevents center-only cropping */
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* show the whole cover */
+  transition: opacity 0.2s ease-in-out;
+}
+
+.book-image-swap .card-image.book-back {
+  opacity: 0;
+}
+
+.book-image-swap:hover .card-image.book-front {
+  opacity: 0;
+}
+
+.book-image-swap:hover .card-image.book-back {
+  opacity: 1;
+}
+
 .video-sound-toggle {
   position: absolute;
   right: 0.75rem;

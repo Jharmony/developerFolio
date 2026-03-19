@@ -287,6 +287,19 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/circumfusionFront.jpg"),
+      imageHover: require("./assets/images/circumfusionBack.jpg"),
+      projectName: "Circumfusion",
+      projectDesc:
+        "Unlock the secrets of the Sketchyverse in this collaborative novel from the Sketchy Labs community. A dedicated group races to resurrect lost ancient powers, restore Earth-1992, and face the looming battle between good and evil. 250 pages of adventure, mystery, and redemption.",
+      footerLink: [
+        {
+          name: "View",
+          url: "https://www.amazon.com/dp/B0C523YBHN?tag=080969-20"
+        }
+      ]
+    },
+    {
       video: require("./assets/images/mintcheleons.mp4"),
       projectName: "Mintcheleons",
       projectDesc: "Digital collectible project. Mintcheleons on OpenSea.",
